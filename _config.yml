@@ -32,6 +32,7 @@ author:
   email            : "jld.gr@dartmouth.edu" 
 
   # Academic websites
+  Strava           : "https://www.strava.com/athletes/11309910"
  # academia         : # URL
   arxiv            :  "https://arxiv.org/search/math?searchtype=author&query=Duke,+J+L"
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
@@ -62,7 +63,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  Strava           : "https://www.strava.com/athletes/11309910"
+  #Strava           : "https://www.strava.com/athletes/11309910"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
