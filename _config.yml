@@ -22,7 +22,7 @@ repository               : "JacobLehmannDuke/JacobLehmannDuke.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ProfilePic.pdf"
   name             : "Jacob Lehmann Duke"
   pronouns         : "he/him"  
   bio              : "Williams Class of 2024; Mathematics PhD Student at Dartmouth"
