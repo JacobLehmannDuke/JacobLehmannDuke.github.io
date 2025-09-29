@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Write bio here later
+# Hello
 Welcome to my very recently-constructed website! I will update this as I learn more about GitHub, have more free time, and have more to post, but for now, you can revel in the fact that this page no longer says "Lorem ipsum dolor sit amet..."
 
 I grew up in Berkeley, CA, attending wonderful but uninspiringly-named The College Preparatory School for high school. I was in the Williams College Class of 2024, where I majored in Mathematics and minored in Jewish Studies. I was also captain of the cross country team, and my extensive use of Strava might to some be sufficient to count as an extra class.
