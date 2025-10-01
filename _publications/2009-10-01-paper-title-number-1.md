@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /https://doi.org/10.1017/etds.2025.10198
 excerpt: Undergraduate thesis establishing the ergodicity of the triangle map
-date: 2009-10-01
+date: 2025-08
 venue: 'Ergodic Theory and Dynamical Systems'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2409.05822'
