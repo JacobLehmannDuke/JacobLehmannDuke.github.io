@@ -2,7 +2,7 @@
 title: "Toward the Gaussianity of Random Zeckendorf Games."
 collection: publications
 category: conferences
-permalink: /https://arxiv.org/abs/2210.11038
+permalink: https://arxiv.org/abs/2210.11038
 excerpt: 'Examines the expected length of a randomly-played version of the Zeckendorf Game, which ends at the Zeckendorf decomposition of an integer n.'
 date: 2023-05
 venue: 'Published in the conference proceedings for the Combinatorial and Additive Number Theory Conference, May 2023.'
