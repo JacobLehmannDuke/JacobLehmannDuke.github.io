@@ -1,7 +1,7 @@
 ---
 title: “Ergodicity and Algebraticity of the Fast and Slow Triangle Maps”
 collection: publications
-category: manuscripts
+category: books
 permalink: /https://doi.org/10.1017/etds.2025.10198
 excerpt: Undergraduate thesis establishing the ergodicity of the triangle map
 date: 2025-08
