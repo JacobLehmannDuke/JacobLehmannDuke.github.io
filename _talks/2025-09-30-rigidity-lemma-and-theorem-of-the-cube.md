@@ -4,7 +4,7 @@ collection: talks
 type: "Seminar talk"
 permalink: /talks/2025-09-rigidity-lemma-and-theorem-of-the-cube
 venue: "Math 150 learning seminar on abelian varieties, Dartmouth College"
-date: 2025-09-01
+date: 2025-09-30
 location: "Hanover, NH"
 ---
 
