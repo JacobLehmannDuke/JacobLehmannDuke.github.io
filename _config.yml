@@ -157,7 +157,7 @@ analytics:
   # then put your site code here — if your dashboard is at
   # https://jacoblehmannduke.goatcounter.com, the code is "jacoblehmannduke".
   # Nothing is loaded and no requests are made while this is blank.
-  goatcounter_code       :
+  goatcounter_code       : "jacoblehmannduke"
 
 
 # Reading Files
